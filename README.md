@@ -2,7 +2,7 @@
 
 ### Presentacion
 
-#### Gustavo Quiros Gamboa
+Gustavo Quiros Gamboa
 
 Hola este es mi repositorio personal para poder mostrar las tareas del curso Git para Data.
 
